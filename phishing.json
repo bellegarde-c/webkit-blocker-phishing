@@ -1,1 +1,1 @@
-{"trigger": {"url-filter": ".*", "if-top-url": ["http://www\\.gladiatorslidingdoors\\.com/Fondsite_clinique_article_lediet\\.html"]}, "action": {"type": "block"}}
+{"trigger": {"url-filter": ".*", "if-top-url": ["http://www"]}, "action": {"type": "block"}}
