@@ -1,1 +1,12 @@
-{"trigger": {"url-filter": ".*", "if-top-url": ["http://www"]}, "action": {"type": "block"}}
+[
+
+{
+    "trigger": {
+	"url-filter": ".*",
+	"if-top-url": ["please see our developer site: http://www\\.phishtank\\.com/developer_info\\.php"]
+    },
+    "action": {
+	"type": "block"
+    }
+}
+]
